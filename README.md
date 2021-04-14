@@ -17,5 +17,4 @@ Doing a expoiltary data analysis on heart disease taking the following factors i
 
 This EDA would predict if a person is prone to a heart attack or not. 
 
-The data is collected from DrivenDATA. 
 
